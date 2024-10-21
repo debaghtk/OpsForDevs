@@ -1,6 +1,6 @@
-Code flows like a stream
-Ops and Dev in harmony
-Build, test, and deploy
+*Code flows like a stream*
+*Ops and Dev in harmony*
+*Build, test, and deploy*
 
 # DevOps Principles for Backend Developers
 
