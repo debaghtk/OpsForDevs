@@ -36,7 +36,7 @@ The bootcamp covers the following key areas:
 
 1. Code of conduct and pre-requisites
 2. [Origin of DevOps](Origin.md)
-3. Readme as tool for collaboration
+3. [Readme as tool for collaboration](Creating-a-Good-README.md)
 4. Continuous Integration and Continuous Deployment (CI/CD)
 5. Infrastructure as Code (IaC)
 6. Monitoring and Logging
