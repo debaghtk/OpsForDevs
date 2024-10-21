@@ -34,14 +34,16 @@ While the content is tailored for backend developers, it can be valuable for any
 
 The bootcamp covers the following key areas:
 
-1. Introduction to DevOps
-2. Continuous Integration and Continuous Deployment (CI/CD)
-3. Infrastructure as Code (IaC)
-4. Monitoring and Logging
-5. Scalability and High Availability
-6. Security in DevOps
-7. Containerization and Orchestration Concepts
-8. Incident Response and Postmortems
+1. Code of conduct and pre-requisites
+2. [Origin of DevOps](Origin.md)
+3. Readme as tool for collaboration
+4. Continuous Integration and Continuous Deployment (CI/CD)
+5. Infrastructure as Code (IaC)
+6. Monitoring and Logging
+7. Scalability and High Availability
+8. Security in DevOps
+9. Containerization and Orchestration Concepts
+10. Incident Response and Postmortems
 
 Each section focuses on principles and best practices rather than specific tools, allowing the concepts to be applied across various technology stacks and environments.
 
