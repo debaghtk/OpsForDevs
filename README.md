@@ -48,30 +48,16 @@ The bootcamp covers the following key areas:
 12. [Exercise 5: Local Deployment](Exercise5.md)
 13. [Infrastructure as Code (IaC)](InfrastructureAsCode.md)
 14. [Exercise 6: Manual Cloud Deployment](Exercise6.md)
-14. [Exercise 7: Automated Cloud Deployment](Exercise7.md)
+15. [Exercise 7: Automated Cloud Deployment](Exercise7.md)
 
-Additional topics:
-14. [Load Balancing](LoadBalancing.md)
-15. [Exercise 8: Scalability and High Availability](Exercise8.md)
-16. [Monitoring and Logging](MonitoringAndLogging.md)
-17. [Exercise 9: Monitoring and Logging](Exercise9.md)
+## Additional Content
+
+16. [Load Balancing](LoadBalancing.md)
+17. [Exercise 8: Scalability and High Availability](Exercise8.md)
+18. [Monitoring and Logging](MonitoringAndLogging.md)
+19. [Exercise 9: Monitoring and Logging](Exercise9.md)
 
 Each section focuses on principles and best practices rather than specific tools, allowing the concepts to be applied across various technology stacks and environments.
-
-## How to Use This Repository
-
-// ... (Additional sections on how to navigate the repo, contribute, etc.)
-
-## Acknowledgements
-
-// ... (Any acknowledgements or credits)
-
-## License
-
-// ... (License information)
-
-
-// ... (previous content remains unchanged)
 
 This multidisciplinary approach not only makes developers more versatile but also helps create a more efficient and collaborative software development environment.
 
