@@ -34,10 +34,10 @@ While the content is tailored for backend developers, it can be valuable for any
 
 The bootcamp covers the following key areas:
 
-1. [Bootcamp Best Practices](Bootcamp-Best-Practices.md)
-2. [Pre-requisites](Pre-requisites.md)
+1. [Bootcamp Best Practices](BootcampBestPractices.md)
+2. [Pre-requisites](PreRequisites.md)
 3. [Origin of DevOps](Origin.md)
-4. [Readme as tool for collaboration](Creating-a-Good-README.md)
+4. [Readme as tool for collaboration](CreateGoodReadme.md)
 5. Continuous Integration and Continuous Deployment (CI/CD)
 6. Infrastructure as Code (IaC)
 7. Monitoring and Logging
