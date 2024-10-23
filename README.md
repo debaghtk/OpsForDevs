@@ -40,6 +40,7 @@ The bootcamp covers the following key areas:
 4. [Readme as tool for collaboration](Creating-a-Good-README.md)
 5. [Exercise 1: Creating a README for Your Project](Exercise1.md)
 6. [Exercise 2: Simplifying Environment Setup with Vagrant and Docker](Exercise2.md)
+7. [Continuous Integration](ContinousIntegration.md)
 7. Continuous Integration and Continuous Deployment (CI/CD)
 8. Infrastructure as Code (IaC)
 9. Monitoring and Logging
