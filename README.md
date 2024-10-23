@@ -42,6 +42,7 @@ The bootcamp covers the following key areas:
 6. [Exercise 2: Simplifying Environment Setup with Vagrant and Docker](Exercise2.md)
 7. [Continuous Integration](ContinousIntegration.md)
 8. [Exercise 3: Creating a CI Pipeline](Exercise3.md)
+9. [Packaging and Versioning](PackageAndVersioning.md)
 7. Continuous Integration and Continuous Deployment (CI/CD)
 8. Infrastructure as Code (IaC)
 9. Monitoring and Logging
