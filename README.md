@@ -44,7 +44,7 @@ The bootcamp covers the following key areas:
 8. [Exercise 3: Creating a CI Pipeline](Exercise3.md)
 9. [Packaging and Versioning](PackageAndVersioning.md)
 10. [Exercise 4: Packaging, Versioning, and Artifact Management](Exercise4.md)
-11. Continuous Delivery and Continuous Deployment (CI/CD)
+11. [Continuous Delivery and Continuous Deployment](Deployment.md)
 12. Infrastructure as Code (IaC)
 13. Monitoring and Logging
 14. Scalability and High Availability
