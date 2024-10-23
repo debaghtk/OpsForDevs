@@ -49,11 +49,12 @@ The bootcamp covers the following key areas:
 13. [Infrastructure as Code (IaC)](InfrastructureAsCode.md)
 14. [Exercise 6: Manual Cloud Deployment](Exercise6.md)
 14. [Exercise 7: Automated Cloud Deployment](Exercise7.md)
-15. [Monitoring and Logging](MonitoringAndLogging.md)
-14. Scalability and High Availability
-15. Security in DevOps
-16. Containerization and Orchestration Concepts
-17. Incident Response and Postmortems
+
+Additional topics:
+14. [Load Balancing](LoadBalancing.md)
+15. [Exercise 8: Scalability and High Availability](Exercise8.md)
+16. [Monitoring and Logging](MonitoringAndLogging.md)
+17. [Exercise 9: Monitoring and Logging](Exercise9.md)
 
 Each section focuses on principles and best practices rather than specific tools, allowing the concepts to be applied across various technology stacks and environments.
 
