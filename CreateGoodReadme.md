@@ -1,43 +1,5 @@
 # Creating a Good README.md
 
-## Exercise 1
-- Create a README for a project of your choice using the elements of a good README outlined below.
-- Provide concise and clear instructions for setting up the project locally. For example:
-
-  1. Install Go version 1.16 or later:
-     ```
-     wget https://golang.org/dl/go1.16.linux-amd64.tar.gz
-     sudo tar -C /usr/local -xzf go1.16.linux-amd64.tar.gz
-     export PATH=$PATH:/usr/local/go/bin
-     ```
-
-  2. Install PostgreSQL 13:
-     ```
-     sudo apt-get update
-     sudo apt-get install postgresql-13
-     ```
-
-  3. Install Redis 6.0:
-     ```
-     sudo add-apt-repository ppa:redislabs/redis
-     sudo apt-get update
-     sudo apt-get install redis
-     ```
-
-  4. Clone the repository and install dependencies:
-     ```
-     git clone https://github.com/yourusername/yourproject.git
-     cd yourproject
-     go mod download
-     ```
-
-  5. Set up the database and start the application:
-     ```
-     psql -c "CREATE DATABASE yourproject"
-     redis-server &
-     go run main.go
-     ```
-
 A well-crafted README.md file is crucial for any internal project. It serves as the primary documentation for team members, stakeholders, and future maintainers. Here's how to create an effective README tailored for internal organizational use and understand its benefits for team collaboration and rapid onboarding.
 
 ## Elements of a Good README
