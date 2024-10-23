@@ -45,8 +45,10 @@ The bootcamp covers the following key areas:
 9. [Packaging and Versioning](PackageAndVersioning.md)
 10. [Exercise 4: Packaging, Versioning, and Artifact Management](Exercise4.md)
 11. [Continuous Delivery and Continuous Deployment](Deployment.md)
-12. Infrastructure as Code (IaC)
-13. Monitoring and Logging
+12. [Exercise 5: Local Deployment](Exercise5.md)
+13. [Infrastructure as Code (IaC)](InfrastructureAsCode.md)
+14. [Exercise 6: Cloud Deployment with Infrastructure as Code and Advanced Configuration](Exercise6.md)
+15. [Monitoring and Logging](MonitoringAndLogging.md)
 14. Scalability and High Availability
 15. Security in DevOps
 16. Containerization and Orchestration Concepts
