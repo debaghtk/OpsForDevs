@@ -43,13 +43,14 @@ The bootcamp covers the following key areas:
 7. [Continuous Integration](ContinousIntegration.md)
 8. [Exercise 3: Creating a CI Pipeline](Exercise3.md)
 9. [Packaging and Versioning](PackageAndVersioning.md)
-7. Continuous Integration and Continuous Deployment (CI/CD)
-8. Infrastructure as Code (IaC)
-9. Monitoring and Logging
-10. Scalability and High Availability
-11. Security in DevOps
-12. Containerization and Orchestration Concepts
-13. Incident Response and Postmortems
+10. [Exercise 4: Packaging, Versioning, and Artifact Management](Exercise4.md)
+11. Continuous Delivery and Continuous Deployment (CI/CD)
+12. Infrastructure as Code (IaC)
+13. Monitoring and Logging
+14. Scalability and High Availability
+15. Security in DevOps
+16. Containerization and Orchestration Concepts
+17. Incident Response and Postmortems
 
 Each section focuses on principles and best practices rather than specific tools, allowing the concepts to be applied across various technology stacks and environments.
 
