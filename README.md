@@ -34,16 +34,17 @@ While the content is tailored for backend developers, it can be valuable for any
 
 The bootcamp covers the following key areas:
 
-1. Code of conduct and pre-requisites
-2. [Origin of DevOps](Origin.md)
-3. [Readme as tool for collaboration](Creating-a-Good-README.md)
-4. Continuous Integration and Continuous Deployment (CI/CD)
-5. Infrastructure as Code (IaC)
-6. Monitoring and Logging
-7. Scalability and High Availability
-8. Security in DevOps
-9. Containerization and Orchestration Concepts
-10. Incident Response and Postmortems
+1. [Bootcamp Best Practices](Bootcamp-Best-Practices.md)
+2. [Pre-requisites](Pre-requisites.md)
+3. [Origin of DevOps](Origin.md)
+4. [Readme as tool for collaboration](Creating-a-Good-README.md)
+5. Continuous Integration and Continuous Deployment (CI/CD)
+6. Infrastructure as Code (IaC)
+7. Monitoring and Logging
+8. Scalability and High Availability
+9. Security in DevOps
+10. Containerization and Orchestration Concepts
+11. Incident Response and Postmortems
 
 Each section focuses on principles and best practices rather than specific tools, allowing the concepts to be applied across various technology stacks and environments.
 
