@@ -47,7 +47,8 @@ The bootcamp covers the following key areas:
 11. [Continuous Delivery and Continuous Deployment](Deployment.md)
 12. [Exercise 5: Local Deployment](Exercise5.md)
 13. [Infrastructure as Code (IaC)](InfrastructureAsCode.md)
-14. [Exercise 6: Cloud Deployment with Infrastructure as Code and Advanced Configuration](Exercise6.md)
+14. [Exercise 6: Manual Cloud Deployment](Exercise6.md)
+14. [Exercise 7: Automated Cloud Deployment](Exercise7.md)
 15. [Monitoring and Logging](MonitoringAndLogging.md)
 14. Scalability and High Availability
 15. Security in DevOps
